@@ -1,5 +1,7 @@
+![Python](https://github.com/John07-noob/Python/blob/main/python-logo.png "Python")
+
 # Python
-* This is all python projects
+* THIS IS ALL MY PYTHON PROJECTS
 * [Bank](https://github.com/John07-noob/bank-python)
 * [Caeser Cipher](https://github.com/John07-noob/caesarcipher-python.git)
 * [Email Client](https://github.com/John07-noob/send-mail-cli-python.git)
